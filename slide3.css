@@ -1,0 +1,53 @@
+*{
+  box-sizing: border-box;
+}
+
+header,footer{
+  height: 75px;
+  border: 2px solid black;
+  clear: both;
+}
+
+
+
+
+.A{
+  height: 150px;
+  float: left;
+  width: 17%;
+  border: 2px solid blue;
+  
+  
+}
+
+
+
+.B{
+  height: 150px;
+  float:left;
+  
+  width:50%;
+  border: 2px solid blue;
+
+
+}
+
+.C{
+  height: 150px;
+  border: 2px solid yellow;
+  width: 17%;
+  float: right;
+}
+
+.D{
+  height: 150px;
+  border: 2px solid green;
+  width: 13%;
+  float: right;
+  
+}
+
+
+
+  
+  
